@@ -32,7 +32,7 @@ Web Live: https://synfiniti.github.io/ContactList/
 3. Open the index.html file in your browser to view the app in action.
 
 bash
-git clone https://github.com/your-username/contact-list-app.git
+git clone https://github.com/Synfiniti/ContactList.git
 cd contact-list-app
 
 ## Screenshots
