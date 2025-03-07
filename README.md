@@ -2,6 +2,8 @@
 
 Welcome to the Contact List app! This is a basic and easy-to-use application that allows you to manage your contacts efficiently. With this tool, you can add, edit, and delete contacts, as well as enjoy a modern design with support for light and dark modes.
 
+Web Live: https://synfiniti.github.io/ContactList/
+
 ## Key Features
 
 - _Add contacts:_ Add new contacts with a name and phone number.
